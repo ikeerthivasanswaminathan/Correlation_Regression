@@ -1,9 +1,9 @@
 # Correlation and regression for data analysis
+
 # Aim : 
-
 To analyse given data using coeffificient of correlation and regression line
-![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
+![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
 # Software required :  
 
@@ -20,10 +20,12 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-```PYTHON
-Developed by: Prasannalakshmi G
-Reg no: 212222240075
 
+Name : KEERTHIVASAN S
+
+Register Number : 212223220046
+
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -60,8 +62,7 @@ plt.legend(['Regression Line','Data points'])
 
 # Output 
 
-![240576393-b7d1840e-940b-4520-ab4a-667348f111a6](https://github.com/user-attachments/assets/f2a07aae-d929-470b-b053-4b039e9131fa)
-
+![ex3op](https://github.com/user-attachments/assets/8f43cc05-f5f5-436f-a7be-bed8a7082447)
 
 # Result
 
